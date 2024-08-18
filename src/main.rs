@@ -1,5 +1,3 @@
-use std::{string, usize};
-
 use rand::{thread_rng, seq::SliceRandom};
 
 #[derive(Debug)]
